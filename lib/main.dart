@@ -16,6 +16,7 @@ class MainApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('MAIN'),
           centerTitle: true,
+
         ),
         body: MainScreen(),
       ),
